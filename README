@@ -1,16 +1,16 @@
 Kevin McGinty's Code-Foo Application to IGN
 
-Files Contained -
+Files contained in this repository -
 
-	Documents
-		1_Pennies.doc – Keep the change
-		2_ImageRatios.doc – 16:9 
-		3_ChessFoo.doc – Lets Move that knight
-		4_Fire.doc – Burning with passion
-		InformalBio.doc – A little about Kevin
-		FormalResume.doc – My formal resume with all past work experience.  
+	Text Documents
+		1_Pennies.doc - Keep the change
+		2_ImageRatios.doc - 16:9 
+		3_ChessFoo.doc - Lets Move that knight
+		4_Fire.doc - Burning with passion
+		InformalBio.doc - A little about Kevin
+		FormalResume.doc - My formal resume with all past work experience.  
 
-	Pics – Backups of pictures used in our documents (just in case)
+	Pics - Backups of pictures used in our documents (just in case)
 	
 	Zip Files -
 		ChessFoo.zip – Accompanying chess program. A combination of Javascript, HTML, and CSS written using notepad++
