@@ -2,6 +2,10 @@ Kevin McGinty's Code-Foo Application to IGN
 
 Files contained in this repository -
 
+  ChessFoo -
+	ChessFoo.zip - Accompanying chess program. A combination of JavaScript, HTML, and CSS written using notepad++
+	CompleteCodeFoo.zip - Zip folder containing all documents, programs, and images
+	
   Documents -  
 	1_Pennies.doc - Keep the change
 	2_ImageRatios.doc - 16:9
@@ -13,9 +17,8 @@ Files contained in this repository -
    Pictures - 
 	Backups of pictures used in my documents (just in case)
 	
-   ChessFoo -
-	ChessFoo.zip - Accompanying chess program. A combination of Javascript, HTML, and CSS written using notepad++
-	CompleteCodeFoo.zip - Zip folder containing all documents, programs, and images
+   README - 
+    Repository file list & description
 
 
 	
