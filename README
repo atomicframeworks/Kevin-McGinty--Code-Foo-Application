@@ -3,7 +3,7 @@ Kevin McGinty's Code-Foo Application to IGN
 Files contained in this repository -
 
   ChessFoo -
-	ChessFoo.zip - Accompanying chess program. A combination of JavaScript, HTML, and CSS written using notepad++
+	ChessFoo.zip - Accompanying chess program. A combination of JavaScript, HTML, and CSS written using Notepad++
 	CompleteCodeFoo.zip - Zip folder containing all documents, programs, and images
 	
   Documents -  
@@ -19,6 +19,17 @@ Files contained in this repository -
 	
    README - 
     Repository file list & descriptions
+	
 
+Last Update:
+
+	3_ChessFoo.doc
+		+New thoughts
+		+Sample of a generated graph
+		
+	ChessFoo - Luke Auto-Walker feature
+		-Bugs
+		+Timer feature
+		+Color
 
 	
